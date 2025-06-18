@@ -306,5 +306,3 @@ density<-ggplot(data_for_plot_onegene, aes(expression))+
   theme_bw()+xlab("")+coord_flip()
 
 plot_grid(scatter, density, ncol=2, rel_widths=c(2,1))
-
-
