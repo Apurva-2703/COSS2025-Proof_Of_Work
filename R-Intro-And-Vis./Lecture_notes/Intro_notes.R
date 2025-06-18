@@ -103,9 +103,10 @@ Salad.steps("Lettuce", "Tomato", "Vinegar") #The arguments are the input to the 
 
 #Variable number of parameters
 mix.ingredients <- function(ingredients){
-    for (i in ingredients)
+    for (i in ingredients){
         cat("Add", i, "\n")
     cat("Mix everything well\n")
+    }
 }
 
 ingredients <- c("sugar", "flour", "raisins", "vanilla")
