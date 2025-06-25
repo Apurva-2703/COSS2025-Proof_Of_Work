@@ -23,7 +23,7 @@ A scatter plot showing how the production budgets of Pixar films evolved chronol
 A dumbbell plot comparing each film's budget and global box office revenue. A dashed red line was added after Toy Story 4 to signal the onset of the COVID-19 pandemic, which directly affected theatrical releases.
 
   ✨ Key Insight:
-  The last three Pixar films (Onward, Soul, Luca) were released during the pandemic. Due to global lockdowns, these films either saw reduced theatrical runs or were released directly to streaming platforms (Disney+), resulting in low or negative box-office ROI — despite maintaining creative output.
+  The last two Pixar films in this dataset (Soul, Luca) were released during the pandemic. Due to global lockdowns, these films either saw reduced theatrical runs or were released directly to streaming platforms (Disney+), resulting in low or negative box-office ROI — despite maintaining creative output. In particular, Luca had limited theatre showtimes until the lockdown mandates were implemented and Soul was never released in theatres in Canada.  
 
 4. Public Reception vs ROI (Scatterplot):
 A scatter plot of Metacritic critic scores against the financial return on investment (ROI) for each movie. A linear model line (trendline) was added.
