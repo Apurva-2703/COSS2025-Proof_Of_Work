@@ -5,9 +5,11 @@ This repo contains notes, scripts, and applied "Proof-of-Work" projects from the
 
 ## ✅ Completed Projects
 Pixar Films Data Visualization (R / #TidyTuesday)
-Explored genre frequency, budgets, ROI, and public reception using the pixarfilms package and ggplot2 visualizations.
-→ View project folder
 
+* Explored genre frequency, budgets, ROI, and public reception using the pixarfilms package and ggplot2 visualizations.
+
+  →  [View project folder](./R-Intro-and-Data-Vis/README.md)
+  
 ## 🔧 In Progress / Upcoming
 📘 Julia – Lecture notes and mini-project pending
 
