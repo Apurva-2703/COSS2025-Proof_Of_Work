@@ -1,7 +1,7 @@
 # Compute Ontario Summer School (COSS-2025) - Personal projects.
 
 ## 📁 Structure
-This repo contains notes, scripts, and applied "Proof-of-Work" projects from the COSS-2025 Summer School. The goal is to build a unified, visible portfolio of cross-language data skills relevant to scientific computing and grad school applications.
+This repo contains notes, scripts, and applied "Proof-of-Work" projects from the COSS-2025 Summer School. The goal is to build a unified, visible portfolio of cross-language data skills relevant to scientific computing.
 
 ## ✅ Completed Projects
 Pixar Films Data Visualization (R / #TidyTuesday)
