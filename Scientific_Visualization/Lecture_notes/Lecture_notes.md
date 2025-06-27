@@ -45,4 +45,8 @@ One may use scientific data formats such as NetCDF and HDF5 to store large array
 ### Filters
 Filters process data to generate, extract, or derive additional features. [Click here for Paraview-filters documentation.](http://bit.ly/ZX5u2q)
 
-Remainder of this session was a follow-along on using filters on an open-source dataset. The project component of this course displays my customized use of filters to develop a pipeline.
+Remainder of this session was a follow-along on using filters on an open-source dataset. The project component of this course displays my customized use of filters to develop a pipeline and compute descriptive statistics.
+
+### Exporting and viewing scenes
+Use PV Glance to visualize 3D models in-browser after exporting your project (with all the filters visible in the pipeline) in a VTKJS format. [Link to PV Glance](https://kitware.github.io/glance/app/)
+
