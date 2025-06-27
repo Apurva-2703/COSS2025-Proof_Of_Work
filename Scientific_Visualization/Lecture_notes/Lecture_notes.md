@@ -50,3 +50,9 @@ Remainder of this session was a follow-along on using filters on an open-source 
 ### Exporting and viewing scenes
 Use PV Glance to visualize 3D models in-browser after exporting your project (with all the filters visible in the pipeline) in a VTKJS format. [Link to PV Glance](https://kitware.github.io/glance/app/)
 
+### Animation methods
+* Use built-in animation property of any pipeline object
+* Time-series animation based on a sequence of similar files
+* Python scripting
+
+Note from demo: It is preferable to export your animation as image sequence(jpg or png) rather than .mp4, since it allows us to preserve resolution and gives control over transitions, annotations, and multimedia components.
