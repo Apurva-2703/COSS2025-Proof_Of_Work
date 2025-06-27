@@ -56,3 +56,8 @@ Use PV Glance to visualize 3D models in-browser after exporting your project (wi
 * Python scripting
 
 Note from demo: It is preferable to export your animation as image sequence(jpg or png) rather than .mp4, since it allows us to preserve resolution and gives control over transitions, annotations, and multimedia components.
+
+Regarding scripting with python:
+* The slides contain thorough notes on scripting with python once the python shell has been enabled. In order to facilitate your computations, its better to use the "start trace" function, create a pipeline, then "stop trace" = this will provide you with a python script that already contains all the inputs and filters. Then, you can customize these features in-script as needed. 
+
+Content about remote and distributed visualization was NOT covered.
