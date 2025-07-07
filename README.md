@@ -17,7 +17,7 @@ Pixar Films Data Visualization (R / #TidyTuesday)
 
 💻 C Programming – Syntax review and applied project
 
-🧬 Scientific Visualization – Concepts and portfolio-quality plots
+🧬 Scientific Visualization – Python-based visualizations and ParaView animations
 
 🚀 HPC with Python – Parallel processing and computing notes
 
