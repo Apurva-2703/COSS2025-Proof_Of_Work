@@ -13,7 +13,7 @@ Pixar Films Data Visualization (R / #TidyTuesday)
 ## 🔧 In Progress / Upcoming
 📘 Julia – Lecture notes and mini-project pending
 
-🧠 Artificial Neural Networks – Notes review + practical implementation
+🧠 Artificial Neural Networks – Slides + practical implementation
 
 💻 C Programming – Syntax review and applied project
 
