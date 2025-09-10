@@ -11,9 +11,9 @@ Pixar Films Data Visualization (R / #TidyTuesday)
   →  [View project folder](R-Intro-And-Vis./Project/README.md)
   
 ## 🔧 In Progress / Upcoming
-📘 Julia – Lecture notes and mini-project pending
+📘 Julia – Lecture notes and mini-project
 
-🧠 Artificial Neural Networks – Slides + practical implementation
+🧠 Artificial Neural Networks – Lecture slides + practical implementation
 
 💻 C Programming – Syntax review and applied project
 
